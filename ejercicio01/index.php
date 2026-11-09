@@ -22,8 +22,8 @@ if (isset($_SESSION['user_id'])) {
 <body>
     <form action="login.php" method="POST">
         <h2>Iniciar Sesión</h2>
-        <input type="text" name="username" placeholder="Usuario" required>
-        <input type="password" name="password" placeholder="Contraseña" required>
+        <input type="text" name="username" placeholder="Usuario(admin)" required>
+        <input type="password" name="password" placeholder="Contraseña(12345)" required>
         <button type="submit">Ingresar</button>
     </form>
 </body>
