@@ -15,10 +15,6 @@
     <h1>Menú de Ejercicios - Tarea 4</h1>
     <ul>
         <li><a href="ejercicio01/">Ejercicio 1: Lista de Tareas</a></li>
-        <li><a href="ejercicio02/">Ejercicio 2</a></li>
-        <li><a href="ejercicio03/">Ejercicio 3</a></li>
-        <li><a href="ejercicio04/">Ejercicio 4</a></li>
-        <li><a href="ejercicio05/">Ejercicio 5</a></li>
     </ul>
 </body>
 </html>
